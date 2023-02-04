@@ -1,0 +1,27 @@
+/ecbuild/
+.cache-main
+.cache-tests
+.classpath
+.project
+.settings/
+lib/deploy.jar
+lib/javaws.jar
+installerbuild/
+Kojo-z/
+project/*
+!project/build.properties
+!project/plugins.sbt
+security/
+target/
+*.*~
+/bin/
+.idea/
+dist/
+Kojo.zip
+log
+**/.DS_Store
+.bsp/
+#vs code stuff
+.bloop
+.metals
+.vscode

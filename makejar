@@ -1,0 +1,3 @@
+cd ecbuild
+jar -cvf rithica.jar *
+mv rithica.jar ..
